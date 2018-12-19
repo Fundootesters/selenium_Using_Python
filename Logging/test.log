@@ -1,0 +1,20 @@
+INFO:root:This is Info message
+DEBUG:root:This is Debugg messgae
+WARNING:root:Warnings messages
+ERROR:root:Error messages
+CRITICAL:root:critical messages
+2018-12-18 12:48:27,977
+2018-12-18 12:48:27,977
+2018-12-18 12:48:27,977
+2018-12-18 12:48:27,977
+2018-12-18 12:48:27,977
+2018-12-18 12:49:16,125: INFO: This is Info message
+2018-12-18 12:49:16,125: DEBUG: This is Debugg messgae
+2018-12-18 12:49:16,125: WARNING: Warnings messages
+2018-12-18 12:49:16,125: ERROR: Error messages
+2018-12-18 12:49:16,125: CRITICAL: critical messages
+12/18/2018 01:01:13 PM: INFO: This is Info message
+12/18/2018 01:01:13 PM: DEBUG: This is Debugg messgae
+12/18/2018 01:01:13 PM: WARNING: Warnings messages
+12/18/2018 01:01:13 PM: ERROR: Error messages
+12/18/2018 01:01:13 PM: CRITICAL: critical messages
