@@ -1,0 +1,626 @@
+1544424884191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.Vl9G2Qhn6Ff7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544424885881	Marionette	INFO	Listening on port 61201
+1544424886358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424886381	Marionette	DEBUG	[6442450945] Frame script loaded
+1544424886383	Marionette	DEBUG	[6442450945] Frame script registered
+1544424886400	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544424886801	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544424886912	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544424887490	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 10508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544424891134	Marionette	INFO	Stopped listening on port 61201
+[GPU 8992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544424912767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.tidIDmj93ibR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544424914353	Marionette	INFO	Listening on port 61255
+1544424914442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424914464	Marionette	DEBUG	[6442450945] Frame script loaded
+1544424914466	Marionette	DEBUG	[6442450945] Frame script registered
+1544424914482	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544424915069	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544424915178	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544424915772	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544424998928	Marionette	INFO	Stopped listening on port 61255
+[GPU 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544425643400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.LmNpOEc0AJeI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544425644897	Marionette	INFO	Listening on port 61612
+1544425645038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544425645060	Marionette	DEBUG	[6442450945] Frame script loaded
+1544425645062	Marionette	DEBUG	[6442450945] Frame script registered
+1544425645079	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544425645978	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544425646292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544425646809	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544425646831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544425647132	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544425647133	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/
+1544425647214	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/download/
+1544425647315	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/download/
+[Parent 9732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544425649582	Marionette	INFO	Stopped listening on port 61612
+[GPU 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544425971078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.JcnObhCJaCS6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544425972583	Marionette	INFO	Listening on port 62144
+1544425972730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544425972754	Marionette	DEBUG	[6442450945] Frame script loaded
+1544425972756	Marionette	DEBUG	[6442450945] Frame script registered
+1544425972774	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544425973611	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544425974058	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544425974361	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544425974374	Marionette	INFO	Stopped listening on port 62144
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544426383976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.py5Kb9jKp3Zm"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544426385541	Marionette	INFO	Listening on port 62812
+1544426385650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544426385673	Marionette	DEBUG	[6442450945] Frame script loaded
+1544426385676	Marionette	DEBUG	[6442450945] Frame script registered
+1544426385693	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544426386439	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544426386788	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544426387270	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544426387292	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544426387741	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544426387741	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/
+1544426387827	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/download/
+1544426387883	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/download/
+1544426387922	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/download/
+1544426388176	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/download/
+1544426388177	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/download/
+1544426388236	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/projects/
+1544426388355	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/projects/
+1544426388361	Marionette	INFO	Stopped listening on port 62812
+[Child 12040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544426833277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.TGsoFAwYShDc"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544426834873	Marionette	INFO	Listening on port 63729
+1544426834906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544426834928	Marionette	DEBUG	[6442450945] Frame script loaded
+1544426834930	Marionette	DEBUG	[6442450945] Frame script registered
+1544426834946	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544426835010	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544426835481	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.w3schools.com/html/html_tables.asp
+1544426836389	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.w3schools.com/html/html_tables.asp
+JavaScript error: https://www.w3schools.com/html/html_tables.asp, line 20: TypeError: x is not a function
+JavaScript error: https://www.w3schools.com/html/html_tables.asp, line 20: TypeError: x is not a function
+JavaScript error: https://assurance.mimtid.com/adstart/t.js?c=087F1450AF-ad&i=206_000_000_000_000_000_000, line 42: TypeError: str is undefined
+JavaScript error: https://assurance.mimtid.com/adstart/t.js?c=087F1450AF-ad&i=206_000_000_000_000_000_000, line 42: TypeError: str is undefined
+1544426862915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.fO9G3j6oqX8T"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544426864450	Marionette	INFO	Listening on port 64115
+1544426864552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544426864575	Marionette	DEBUG	[6442450945] Frame script loaded
+1544426864578	Marionette	DEBUG	[6442450945] Frame script registered
+1544426864613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544426864669	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544426865152	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.w3schools.com/html/html_tables.asp
+1544426865964	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.w3schools.com/html/html_tables.asp
+1544426865979	Marionette	INFO	Stopped listening on port 64115
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10788, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544427020437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.QOKFVszXHHxA"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427021951	Marionette	INFO	Listening on port 64424
+1544427022075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427022097	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427022099	Marionette	DEBUG	[6442450945] Frame script registered
+1544427022115	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427022184	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427022640	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.w3schools.com/html/html_tables.asp
+1544427023369	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.w3schools.com/html/html_tables.asp
+1544427023392	Marionette	INFO	Stopped listening on port 64424
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544427078502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.DxdhLZ6URjod"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427080124	Marionette	INFO	Listening on port 64582
+1544427080156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427080180	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427080188	Marionette	DEBUG	[6442450945] Frame script registered
+1544427080205	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427080264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427080758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.w3schools.com/html/html_tables.asp
+1544427081779	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.w3schools.com/html/html_tables.asp
+1544427081793	Marionette	INFO	Stopped listening on port 64582
+[Parent 10624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11836, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 11836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544427441815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.rvjuyAQoDo7H"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427443421	Marionette	INFO	Listening on port 65195
+1544427443475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427443500	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427443503	Marionette	DEBUG	[6442450945] Frame script registered
+1544427443540	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427444293	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427444628	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544427444947	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+[Parent 12876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544427446551	Marionette	INFO	Stopped listening on port 65195
+[GPU 12528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544427492544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.Ni16I6j7WFch"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427494121	Marionette	INFO	Listening on port 65315
+1544427494203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427494226	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427494228	Marionette	DEBUG	[6442450945] Frame script registered
+1544427494247	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427494919	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427495324	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544427495679	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544427495754	Marionette	INFO	Stopped listening on port 65315
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544427688467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.OPKItH7JtzVZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427690012	Marionette	INFO	Listening on port 49280
+1544427690086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427690109	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427690111	Marionette	DEBUG	[6442450945] Frame script registered
+1544427690128	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427690787	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427691075	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544427691411	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544427691479	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544427691822	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544427691823	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/
+1544427692149	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544427692320	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544427692331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544427692608	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544427692654	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544427692743	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544427692748	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544427693376	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544427695058	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427695925	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427695937	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427695939	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427695946	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427695949	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544427695977	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544427695982	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544427696134	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427696488	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1
+1544427696509	Marionette	INFO	Stopped listening on port 49280
+[Parent 12000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544427956827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.yEmFSJrDLGjA"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544427958324	Marionette	INFO	Listening on port 49783
+1544427958450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544427958472	Marionette	DEBUG	[6442450945] Frame script loaded
+1544427958474	Marionette	DEBUG	[6442450945] Frame script registered
+1544427958544	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544427959157	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544427959250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/?gws_rd=ssl
+1544427959803	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/?gws_rd=ssl
+[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544428086690	Marionette	INFO	Stopped listening on port 49783
+[GPU 12764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s://www.google.com/?gws_rd=ssl
+1544428079762	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/?gws_rd=ssl
+[Parent 7124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544428086737	Marionette	INFO	Stopped listening on port 50023
+[GPU 11044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544428455281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.wV6NOm0lw5Ll"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544428456903	Marionette	INFO	Listening on port 50636
+1544428456917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544428456938	Marionette	DEBUG	[6442450945] Frame script loaded
+1544428456940	Marionette	DEBUG	[6442450945] Frame script registered
+1544428456955	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544428457623	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544428457923	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544428458267	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544428458289	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/
+1544428458582	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/
+1544428458582	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/
+1544428458665	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/download/
+1544428458889	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/download/
+1544428458907	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.seleniumhq.org/download/
+1544428459167	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.seleniumhq.org/download/
+1544428459167	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.seleniumhq.org/download/
+1544428459258	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/projects/
+1544428459294	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/projects/
+1544428459302	Marionette	INFO	Stopped listening on port 50636
+[Child 9200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544437322559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.0YuCjmA5Gmgr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544437324077	Marionette	INFO	Listening on port 63621
+1544437324195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544437324218	Marionette	DEBUG	[6442450945] Frame script loaded
+1544437324224	Marionette	DEBUG	[6442450945] Frame script registered
+1544437324283	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544437324834	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544437324931	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/?gws_rd=ssl
+1544437325448	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/?gws_rd=ssl
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Child 13684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544441532604	Marionette	INFO	Stopped listening on port 63621
+[GPU 4312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544442543637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.cNdEzRYjeIUT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544442545283	Marionette	INFO	Listening on port 55187
+1544442545756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544442545778	Marionette	DEBUG	[6442450945] Frame script loaded
+1544442545782	Marionette	DEBUG	[6442450945] Frame script registered
+1544442545840	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544442548774	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544442550692	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544442554842	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544442555092	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544442557315	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544442559544	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 336, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1544442562390	Marionette	INFO	Stopped listening on port 55187
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544443820746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.nYt4yF6eUmRR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544443822254	Marionette	INFO	Listening on port 57437
+1544443822365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544443822388	Marionette	DEBUG	[6442450945] Frame script loaded
+1544443822398	Marionette	DEBUG	[6442450945] Frame script registered
+1544443822470	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544443824449	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544443826351	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544443829688	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544443829968	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544443832230	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544443834455	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544443836723	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544443840444	Marionette	INFO	Stopped listening on port 57437
+[GPU 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544617206623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.XNZB12mhxsR2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544617208488	Marionette	INFO	Listening on port 59603
+1544617208747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544617208770	Marionette	DEBUG	[6442450945] Frame script loaded
+1544617208771	Marionette	DEBUG	[6442450945] Frame script registered
+1544617208852	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544617209522	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544617209794	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544617210158	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+[Child 4160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544617252310	Marionette	INFO	Stopped listening on port 59603
+[GPU 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544617257918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.yItfc0yTAyFy"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544617259442	Marionette	INFO	Listening on port 59655
+1544617259539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544617259562	Marionette	DEBUG	[6442450945] Frame script loaded
+1544617259576	Marionette	DEBUG	[6442450945] Frame script registered
+1544617259659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544617260255	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544617260628	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544617260929	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544617261009	Marionette	INFO	Stopped listening on port 59655
+[Child 5052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544617306209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.UaFEa8L0YCEp"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544617307733	Marionette	INFO	Listening on port 59699
+1544617307830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544617307852	Marionette	DEBUG	[6442450945] Frame script loaded
+1544617307857	Marionette	DEBUG	[6442450945] Frame script registered
+1544617307932	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544617308537	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544617308961	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.seleniumhq.org/
+1544617309650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.seleniumhq.org/
+1544617309734	Marionette	INFO	Stopped listening on port 59699
+[Child 8280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544620922930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.nqz2W9Hz3lIR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544620924529	Marionette	INFO	Listening on port 64702
+1544620924551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544620924577	Marionette	DEBUG	[6442450945] Frame script loaded
+1544620924581	Marionette	DEBUG	[6442450945] Frame script registered
+1544620924668	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544620927185	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544620929074	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544620936199	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+1544620936548	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544620938558	Marionette	DEBUG	[6442450962] Frame script loaded
+1544620938559	Marionette	DEBUG	[6442450962] Frame script registered
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://letskodeit.teachable.com
+1544621015233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NISHAN~1.GOH\\AppData\\Local\\Temp\\rust_mozprofile.bs6cF8wfXwVf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1544621016747	Marionette	INFO	Listening on port 64946
+1544621016851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544621016873	Marionette	DEBUG	[6442450945] Frame script loaded
+1544621016875	Marionette	DEBUG	[6442450945] Frame script registered
+1544621016953	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544621019669	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544621021575	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544621025302	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1544621025654	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544621027663	Marionette	DEBUG	[6442450961] Frame script loaded
+1544621027663	Marionette	DEBUG	[6442450961] Frame script registered
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Child 11468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544621036773	Marionette	INFO	Stopped listening on port 64946
+[GPU 12920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
