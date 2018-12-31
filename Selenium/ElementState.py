@@ -22,7 +22,7 @@ class ElementState():
         e3State = e3.is_enabled()  # True for enabled and False for disabled
         print("E3 is Enabled? -> " + str(e3State))
 
-        e3.send_keys("letskodeit")
+        e3.send_keys("Fun Doo Teters")
 
 
 e = ElementState()
