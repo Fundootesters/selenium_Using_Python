@@ -1,3 +1,5 @@
+
+
 file = open("D:\\PythonAutomation\\q.txt", "r+")
 wordcount = {}
 for word in file.read().split():
@@ -11,3 +13,5 @@ print(word, wordcount)
 list = list.append(wordcount)
 print(list)
 file.close()
+
+

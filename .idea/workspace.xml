@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13bfdb28-c770-40a1-b73a-1d19e7796146" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/DropdownSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/DropdownSelect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/WorkingWithElementsList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/WorkingWithElementsList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/switch-to-window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/switch-to-window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/example2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +15,11 @@
     <session id="-664493131">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,7 +29,7 @@
           <entry key="lastfailed" value="1" />
           <entry key="log" value="2" />
           <entry key="nodeids" value="2" />
-          <entry key="py" value="94" />
+          <entry key="py" value="119" />
           <entry key="stepwise" value="2" />
         </counts>
       </usages-collector>
@@ -40,20 +37,20 @@
         <counts>
           <entry key="Log" value="2" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="94" />
+          <entry key="Python" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="33" />
-          <entry key="py" value="2032" />
+          <entry key="py" value="3309" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Python" value="2032" />
+          <entry key="Python" value="3309" />
         </counts>
       </usages-collector>
     </session>
@@ -61,91 +58,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/ElementState.py">
+        <entry file="file://$PROJECT_DIR$/oops/example4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/WorkingWithElementsList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <marker date="1547721032437" expanded="true" signature="10:11" ph="..." />
+                <marker date="1547721032437" expanded="true" signature="10:12" ph="..." />
+                <marker date="1547721032437" expanded="true" signature="10:17" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unittest/assert-demo.py">
+        <entry file="file://$PROJECT_DIR$/oops/example5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/findElements.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/RunFFTests.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/switch-to-window.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/takeScreenshot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest/test_order_demo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/browserInteratiom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-467">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/DropdownSelect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="242">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -188,7 +118,6 @@
         <option value="$PROJECT_DIR$/Demo/Comparators.py" />
         <option value="$PROJECT_DIR$/pytest/example1.py" />
         <option value="$PROJECT_DIR$/pytest/test_example1.py" />
-        <option value="$PROJECT_DIR$/Demo/example2.py" />
         <option value="$PROJECT_DIR$/pytest/test_case-demo1.py" />
         <option value="$PROJECT_DIR$/pytest/test_case_demo2.py" />
         <option value="$PROJECT_DIR$/pytest/test_case_demo3.py" />
@@ -208,6 +137,20 @@
         <option value="$PROJECT_DIR$/Selenium/DropdownSelect.py" />
         <option value="$PROJECT_DIR$/Selenium/switch-to-window.py" />
         <option value="$PROJECT_DIR$/Selenium/WorkingWithElementsList.py" />
+        <option value="$PROJECT_DIR$/Demo/example2.py" />
+        <option value="$PROJECT_DIR$/wait/explicitwaitdemo.py" />
+        <option value="$PROJECT_DIR$/Demo/firebug.py" />
+        <option value="$PROJECT_DIR$/functions/example2.py" />
+        <option value="$PROJECT_DIR$/functions/example1.py" />
+        <option value="$PROJECT_DIR$/functions/example3.py" />
+        <option value="$PROJECT_DIR$/functions/example4.py" />
+        <option value="$PROJECT_DIR$/wait/explicit-wait-demo1.py" />
+        <option value="$PROJECT_DIR$/oops/example2.py" />
+        <option value="$PROJECT_DIR$/oops/innerclass.py" />
+        <option value="$PROJECT_DIR$/oops/example1.py" />
+        <option value="$PROJECT_DIR$/oops/example3.py" />
+        <option value="$PROJECT_DIR$/oops/example4.py" />
+        <option value="$PROJECT_DIR$/oops/example5.py" />
       </list>
     </option>
   </component>
@@ -222,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,66 +175,17 @@
             <path>
               <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassAndVariables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Logging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Methods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="pytest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="unittest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_Using_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_Using_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="wait" type="462c0819:PsiDirectoryNode" />
+              <item name="oops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Properties" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -306,8 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.implicit-wait-demo">
-    <configuration name="ElementState" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example5">
+    <configuration name="example1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_Using_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,32 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/ElementState.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="browserInteratiom" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_Using_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/browserInteratiom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/example1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/example2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/example2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="implicit-wait-demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_Using_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wait" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wait/implicit-wait-demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/example3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_order_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_Using_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,11 +271,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest/test_order_demo1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/example4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_Using_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/example5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,19 +306,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.example1 (1)" />
       <item itemvalue="Python.example2" />
-      <item itemvalue="Python.test_order_demo1" />
-      <item itemvalue="Python.browserInteratiom" />
-      <item itemvalue="Python.ElementState" />
-      <item itemvalue="Python.implicit-wait-demo" />
+      <item itemvalue="Python.example3" />
+      <item itemvalue="Python.example4" />
+      <item itemvalue="Python.example5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.implicit-wait-demo" />
-        <item itemvalue="Python.ElementState" />
-        <item itemvalue="Python.browserInteratiom" />
-        <item itemvalue="Python.test_order_demo1" />
+        <item itemvalue="Python.example5" />
+        <item itemvalue="Python.example4" />
+        <item itemvalue="Python.example3" />
         <item itemvalue="Python.example2" />
+        <item itemvalue="Python.example1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546249042568</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <created>1546257660609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546257660609</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -526,14 +426,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17597471" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17597471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3165236" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19527897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,94 +481,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Loops/pattern_example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/geckodriver.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="2416">
-          <caret line="625" lean-forward="true" selection-start-line="625" selection-end-line="625" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/test-case-demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/test-case-demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/.pytest_cache/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/test_example1.py" />
-    <entry file="file://$PROJECT_DIR$/pytest/test_run_order_demo.py" />
-    <entry file="file://$PROJECT_DIR$/pytest/.pytest_cache/v/cache/lastfailed">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/.pytest_cache/v/cache/nodeids">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/.pytest_cache/v/cache/stepwise">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/screenshots-generic.py" />
-    <entry file="file://$PROJECT_DIR$/wait/implicit-wait-demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassAndVariables/classdemo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/Comparators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance/demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225" />
@@ -837,8 +648,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/ElementState.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="638">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/WorkingWithElementsList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/assert-demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/test-case-demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/test-case-demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -850,37 +689,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/switch-to-window.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
+        <state relative-caret-position="154">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/takeScreenshot.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/example2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/firebug.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
+        <state relative-caret-position="132">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait/explicitwaitdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/example3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/example4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait/implicit-wait-demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait/explicit-wait-demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/example3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/innerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/example4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1547721032437" expanded="true" signature="10:11" ph="..." />
+            <marker date="1547721032437" expanded="true" signature="10:12" ph="..." />
+            <marker date="1547721032437" expanded="true" signature="10:17" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/WorkingWithElementsList.py">
+    <entry file="file://$PROJECT_DIR$/oops/example5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/assert-demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
